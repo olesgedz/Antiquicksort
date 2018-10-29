@@ -1,0 +1,6 @@
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/bin/Debug/Antiquicksort.exe
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/bin/Debug/Antiquicksort.pdb
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/obj/x86/Debug/Antiquicksort.csprojAssemblyReference.cache
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/obj/x86/Debug/Antiquicksort.csproj.CoreCompileInputs.cache
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/obj/x86/Debug/Antiquicksort.exe
+/Users/olesgedz/Projects/Antiquicksort/Antiquicksort/obj/x86/Debug/Antiquicksort.pdb
